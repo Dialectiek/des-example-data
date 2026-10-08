@@ -1,0 +1,3 @@
+year,country,avg_price_eur_mwh,min_price_eur_mwh,max_price_eur_mwh,avg_load_mw,avg_solar_mw,avg_wind_mw,avg_net_load_mw,negative_hours,hours,res_share_pct,solar_capture_price,wind_capture_price,solar_capture_rate,wind_capture_rate
+2025,DE,89.321,-250.32,583.4,53175.508,8419.817,15178.357,29577.335,576,8760,44.378,46.058,78.932,0.516,0.884
+2025,ES,65.288,-15.0,240.0,27241.118,5925.724,6355.269,14960.124,556,8760,45.083,35.749,62.999,0.548,0.965
